@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "# Women doctors outnumber men for the first time ever*\n\nThis is a repository to show how to build a tableau style interactive map for free using RStudio and leaflet. \n\n<img src = \"img/leaflet-map-doctors-uk.png\" alt = \"img/leaflet-map-doctors-uk\" style = \"width: 400px; height: 400px;\"/>\n\n## For those fairly new to RStudio \n\n- Click on the save to .zip file in the top right hand corner\n\n- Unzip the file on your desktop, and then click on the file that says \"leaflet-mapping-doctors-uk.Rproj\"\n\n- This will open the project, then click open the file \"leaflet-mapping-doctors-uk.R\"\n\n- Then you'll see a script. It'll contain a lot of libraries. For each of these you will have to install them, by using install.packages(\"name_of_package\") until you've done them all, then you'll be able to run the script and generate the map. ",
+    "created" : 1526577886138.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1928766139",
+    "id" : "20538856",
+    "lastKnownWriteTime" : 1526578735,
+    "last_content_update" : 1526578735329,
+    "path" : "~/Documents/R Analysis/Projects/tomfranklin-leaflet-doctors-uk/README.md",
+    "project_path" : "README.md",
+    "properties" : {
+        "tempName" : "Untitled2"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}
